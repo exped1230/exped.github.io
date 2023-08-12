@@ -28,7 +28,7 @@ My research interests include computer vision and deep learning, particularly fo
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/Sarcasm.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/Sarcasm.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DIP: Dual Incongruity Perceiving Network for Sarcasm Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Wen_DIP_Dual_Incongruity_Perceiving_Network_for_Sarcasm_Detection_CVPR_2023_paper.pdf)
@@ -40,14 +40,14 @@ My research interests include computer vision and deep learning, particularly fo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/OLDL.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='../images/OLDL.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Ordinal Label Distribution Learning]
 
 **Changsong Wen**, Xin Zhang, Xingxu Yao, Jufeng Yang
 
-[**Project**](OLDL_page/index.html) 
+[**Project**](../OLDL_page/index.html) 
 - This paper integrate ordinal relations between labels in OLDL paragdim.  
 </div>
 </div>
