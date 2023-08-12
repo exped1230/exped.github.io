@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Changsong Wen"
 description              : "This is the Personal page of Changsong Wen"
-repository               : "downdric/downdric.github.io.git"
+repository               : "downdric/downdric.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
