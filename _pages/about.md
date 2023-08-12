@@ -47,7 +47,7 @@ My research interests include computer vision and deep learning, particularly fo
 
 **Changsong Wen**, Xin Zhang, Xingxu Yao, Jufeng Yang
 
-[**Project**](../OLDL_page/index.html) 
+[**Project**](https://downdric23.github.io/) 
 - This paper integrate ordinal relations between labels in OLDL paragdim.  
 </div>
 </div>
