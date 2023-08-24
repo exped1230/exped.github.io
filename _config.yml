@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Changsong Wen"
 description              : "This is the Personal page of Changsong Wen"
-repository               : "downdric/downdric.github.io"
+repository               : "downdric/downdric.github.io.git"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Changsong Wen"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nankai"
+  name             : "Changsong Wen (文长崧)"
+  avatar           : "images/photo.jpg"
+  bio              : "Nankai University"
   location         : "Tianjin, China"
   employer         :
   pubmed           : 
