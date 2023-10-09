@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a second year Master student from School of Computer Science, Nankai University. I received my Master degree at Xidian University in 2021. I am very fortunate to be advised by Prof. [**Jufeng Yang**](https://cv.nankai.edu.cn/) of Computer Vision Lab.
+I’m a second-year Master student from the School of Computer Science, Nankai University. I received my Master's degree at Xidian University in 2021. I am very fortunate to be advised by Prof. [**Jufeng Yang**](https://cv.nankai.edu.cn/) of Computer Vision Lab.
 
-My research interests include computer vision and deep learning, especially focusing on image-text multi-modal learning, semantic segmentation and label distribution learning. Feel free to contact me via email: downdric@163.com.
+My research interests include computer vision and deep learning, especially focusing on image-text multi-modal learning, semantic segmentation, and label distribution learning. Please feel free to contact me through email: downdric@163.com.
 
 
 # 🎖 Honors and Awards
+- *2023.10* National Scholarship of Nankai University.
 - *2022.11* Gongneng Scholarship of Nankai University.
 - *2021.11* Recommended Scholarship of Nankai University.
 - *2021.07* Outstanding Graduates Awards. 
@@ -47,7 +48,7 @@ My research interests include computer vision and deep learning, especially focu
 **Changsong Wen**, Guoli Jia, Jufeng Yang
 
 [**Project**](https://exped1230.github.io/demo/sarcasm/sarcasm.html) 
-- This paper explores image-text sarcasm data by explicitly investigating incongruity from facual and affective aspects.  
+- This paper explores image-text sarcasm data by explicitly investigating incongruity from factual and affective aspects.  
 </div>
 </div>
 
@@ -55,10 +56,10 @@ My research interests include computer vision and deep learning, especially focu
 <div class='paper-box-text' markdown="1">
 
 [Ordinal Label Distribution Learning]
-
+(https://openaccess.thecvf.com/content/ICCV2023/papers/Wen_Ordinal_Label_Distribution_Learning_ICCV_2023_paper.pdf)
 **Changsong Wen**, Xin Zhang, Xingxu Yao, Jufeng Yang
 
 [**Project**](https://downdric23.github.io/) 
-- This paper integrate ordinal relations between labels and propose an Ordinal Label Distribution Learning (OLDL) paragdim.  
+- This paper integrates ordinal relations between labels and proposes an Ordinal Label Distribution Learning (OLDL) paradigm.  
 </div>
 </div>
