@@ -37,25 +37,76 @@ My research interests include computer vision and multi-modal learning, particul
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/salience.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<img src="https://img.shields.io/badge/CVPR-2024-blue?style=flat-square"> Pancheng Zhao, Peng Xu, Pengda Qin, Dengping Fan, Zhicheng Zhang, <u>Guoli Jia</u>, Bowen Zhou, Jufeng Yang, &quot;**LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024*. 
+
+[[pdf](https://arxiv.org/pdf/2404.00292)][[code](https://github.com/PanchengZhao/LAKE-RED)]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/gait.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<img src="https://img.shields.io/badge/TAFFC-2024-red?style=flat-square"> Yingjie Zhai†, <u>Guoli Jia†</u>, Yukun Lai, Jing Zhang, Jufeng Yang, Dacheng Tao, &quot;**Looking into Gait for Perceiving Emotions via Bilateral Posture and Movement Graph Convolutional Networks**&quot;. In *IEEE Transactions on Affective Computing (TAFFC) 2024*. 
+
+[[pdf](https://ieeexplore.ieee.org/abstract/document/10433680)] [[code](https://github.com/exped1230/BPM-GCN)] [[project](https://exped1230.github.io/BPM-GCN/GaitEmotion-BPM-GCN/index.html)]
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/Sarcasm.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<img src="https://img.shields.io/badge/CVPR-2023-blue?style=flat-square"> Changsong Wen†, <u>Guoli Jia</u>†, Jufeng Yang, &quot;**DIP: Dual Incongruity Perceiving Network for Sarcasm Detection**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024*.
+<img src="https://img.shields.io/badge/CVPR-2023-blue?style=flat-square"> Changsong Wen†, <u>Guoli Jia</u>†, Jufeng Yang, &quot;**DIP: Dual Incongruity Perceiving Network for Sarcasm Detection**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023*.
 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wen_DIP_Dual_Incongruity_Perceiving_Network_for_Sarcasm_Detection_CVPR_2023_paper.pdf)] [[code](https://github.com/downdric/MSD)]
-
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='../images/OLDL.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='../images/S2-VER.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Ordinal Label Distribution Learning]
-(https://openaccess.thecvf.com/content/ICCV2023/papers/Wen_Ordinal_Label_Distribution_Learning_ICCV_2023_paper.pdf)
-**Changsong Wen**, Xin Zhang, Xingxu Yao, Jufeng Yang
+<img src="https://img.shields.io/badge/ECCV-2022-blue?style=flat-square"> <u>Guoli Jia</u>, Jufeng Yang, &quot;**S2-VER: Semi-supervised Visual Emotion Recognition**&quot;. In *European Conference on Computer Vision*.
 
-[**Project**](https://downdric23.github.io/) 
-- This paper integrates ordinal relations between labels and proposes an Ordinal Label Distribution Learning (OLDL) paradigm.  
+[[pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970483.pdf)] [[code](https://github.com/exped1230/S2-VER)] [[poster](https://github.com/exped1230/S2-VER/blob/main/S2-VER_poster.pdf)]
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/EASE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<img src="https://img.shields.io/badge/ACM MM-2022-blue?style=flat-square"></a> Lijuan Wang†, <u>Guoli Jia</u>†, Ning Jiang, Haiying Wu, Jufeng Yang, &quot;**EASE: Robust facial expression recognition via emotion Ambiguity-SEnsitive cooperative networks**&quot;. In *Proceedings of the 30th ACM International Conference on Multimedia*.
+
+[[pdf](https://dl.acm.org/doi/abs/10.1145/3503161.3548005)]
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/spm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<img src="https://img.shields.io/badge/SPM-2021-red?style=flat-square"></a> Sicheng Zhao, <u>Guoli Jia</u>, Jufeng Yang, Guiguang Ding, Kurt Keutzer, &quot;**Emotion Recognition From Multiple Modalities: Fundamentals and methodologies**&quot;. In *IEEE Signal Processing Magazine (SPM)*.
+
+[[pdf](https://ieeexplore.ieee.org/abstract/document/9591550)]
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/AICA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<img src="https://img.shields.io/badge/TPAMI-2021-red?style=flat-square"></a> Sicheng Zhao, Xingxu Yao, Jufeng Yang, Guiguang Ding, Tat-Seng CHua, 
+Björn W. Schuller, 
+Kurt Keutzer, &quot;**Affective Image Content Analysis: Two Decades Review and New Perspectives**&quot;. In *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*.
+
+[[pdf](https://ieeexplore.ieee.org/abstract/document/9472932/)] [[code](https://github.com/exped1230/AICA)] [[poster](https://github.com/exped1230/AICA/blob/main/poster.pdf)]
+
 </div>
 </div>
