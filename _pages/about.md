@@ -80,7 +80,7 @@ My research interests include computer vision and multi-modal learning, particul
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='../images/EASE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<img src="https://img.shields.io/badge/ACM MM-2022-blue?style=flat-square"></a> Lijuan Wang†, <u>Guoli Jia</u>†, Ning Jiang, Haiying Wu, Jufeng Yang, &quot;**EASE: Robust facial expression recognition via emotion Ambiguity-SEnsitive cooperative networks**&quot;. In *Proceedings of the 30th ACM International Conference on Multimedia*.
+<img src="https://img.shields.io/badge/ACM MM-2022-blue?style=flat-square"> Lijuan Wang†, <u>Guoli Jia</u>†, Ning Jiang, Haiying Wu, Jufeng Yang, &quot;**EASE: Robust facial expression recognition via emotion Ambiguity-SEnsitive cooperative networks**&quot;. In *Proceedings of the 30th ACM International Conference on Multimedia*.
 
 [[pdf](https://dl.acm.org/doi/abs/10.1145/3503161.3548005)]
 
@@ -91,7 +91,7 @@ My research interests include computer vision and multi-modal learning, particul
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPM</div><img src='../images/spm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<img src="https://img.shields.io/badge/SPM-2021-red?style=flat-square"></a> Sicheng Zhao, <u>Guoli Jia</u>, Jufeng Yang, Guiguang Ding, Kurt Keutzer, &quot;**Emotion Recognition From Multiple Modalities: Fundamentals and methodologies**&quot;. In *IEEE Signal Processing Magazine (SPM)*.
+<img src="https://img.shields.io/badge/SPM-2021-red?style=flat-square"> Sicheng Zhao, <u>Guoli Jia</u>, Jufeng Yang, Guiguang Ding, Kurt Keutzer, &quot;**Emotion Recognition From Multiple Modalities: Fundamentals and methodologies**&quot;. In *IEEE Signal Processing Magazine (SPM)*.
 
 [[pdf](https://ieeexplore.ieee.org/abstract/document/9591550)]
 
@@ -102,7 +102,7 @@ My research interests include computer vision and multi-modal learning, particul
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='../images/AICA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<img src="https://img.shields.io/badge/TPAMI-2021-red?style=flat-square"></a> Sicheng Zhao, Xingxu Yao, Jufeng Yang, Guiguang Ding, Tat-Seng CHua, 
+<img src="https://img.shields.io/badge/TPAMI-2021-red?style=flat-square"> Sicheng Zhao, Xingxu Yao, Jufeng Yang, <u>Guoli Jia</u>, Guiguang Ding, Tat-Seng CHua, 
 Björn W. Schuller, 
 Kurt Keutzer, &quot;**Affective Image Content Analysis: Two Decades Review and New Perspectives**&quot;. In *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*.
 
