@@ -37,7 +37,7 @@ My research interests include computer vision and multi-modal learning, particul
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/Sarcasm.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/Sarcasm.PNG' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <img src="https://img.shields.io/badge/CVPR-2023-blue?style=flat-square"> Changsong Wen†, <u>Guoli Jia</u>†, Jufeng Yang, &quot;**DIP: Dual Incongruity Perceiving Network for Sarcasm Detection**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024*.
