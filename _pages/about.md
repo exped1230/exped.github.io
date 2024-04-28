@@ -47,7 +47,7 @@ My research interests include computer vision and multi-modal learning, particul
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/gait.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAFFC</div><img src='../images/gait.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <img src="https://img.shields.io/badge/TAFFC-2024-red?style=flat-square"> Yingjie Zhai†, <u>Guoli Jia†</u>, Yukun Lai, Jing Zhang, Jufeng Yang, Dacheng Tao, &quot;**Looking into Gait for Perceiving Emotions via Bilateral Posture and Movement Graph Convolutional Networks**&quot;. In *IEEE Transactions on Affective Computing (TAFFC) 2024*. 
@@ -66,7 +66,7 @@ My research interests include computer vision and multi-modal learning, particul
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='../images/S2-VER.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='../images/S2-VER.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <img src="https://img.shields.io/badge/ECCV-2022-blue?style=flat-square"> <u>Guoli Jia</u>, Jufeng Yang, &quot;**S2-VER: Semi-supervised Visual Emotion Recognition**&quot;. In *European Conference on Computer Vision*.
@@ -77,7 +77,7 @@ My research interests include computer vision and multi-modal learning, particul
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/EASE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='../images/EASE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <img src="https://img.shields.io/badge/ACM MM-2022-blue?style=flat-square"></a> Lijuan Wang†, <u>Guoli Jia</u>†, Ning Jiang, Haiying Wu, Jufeng Yang, &quot;**EASE: Robust facial expression recognition via emotion Ambiguity-SEnsitive cooperative networks**&quot;. In *Proceedings of the 30th ACM International Conference on Multimedia*.
@@ -88,7 +88,7 @@ My research interests include computer vision and multi-modal learning, particul
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/spm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPM</div><img src='../images/spm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <img src="https://img.shields.io/badge/SPM-2021-red?style=flat-square"></a> Sicheng Zhao, <u>Guoli Jia</u>, Jufeng Yang, Guiguang Ding, Kurt Keutzer, &quot;**Emotion Recognition From Multiple Modalities: Fundamentals and methodologies**&quot;. In *IEEE Signal Processing Magazine (SPM)*.
@@ -99,7 +99,7 @@ My research interests include computer vision and multi-modal learning, particul
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/AICA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='../images/AICA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <img src="https://img.shields.io/badge/TPAMI-2021-red?style=flat-square"></a> Sicheng Zhao, Xingxu Yao, Jufeng Yang, Guiguang Ding, Tat-Seng CHua, 
