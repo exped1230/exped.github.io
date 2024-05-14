@@ -21,6 +21,8 @@ Welcome! I am Guoli Jia (贾国力 in Chinese). I am a third-year master's stude
 
 My research interests include computer vision and multi-modal learning, particularly focusing on **semi-supervised image recognition**, **affective computing**. I am always looking for related collaborations, and most of them have produced top-level publications. Feel free to drop me an <a href="mailto:exped1230@gmail.com" target="_blank">email</a> if you are interested!
 
+Motto: **华模才是最吊的！**
+
 
 # 📖 Educations
 - *2021.09 - 2024.06 (now)*, Master student of Nankai University. 
