@@ -17,18 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome! I am Guoli Jia (贾国力 in Chinese). I am a third-year master's student at  the [School of Computer Science](https://cc.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/), advised by Prof. [Jufeng Yang](https://cv.nankai.edu.cn/). Prior to my master's career, I received my bachelor's degree at the School of [Software Engineering](http://www.sei.ecnu.edu.cn/), [East China Normal University](https://www.ecnu.edu.cn/) in 2021.
+Welcome! I am Guoli Jia (贾国力 in Chinese). I am a first-year PHD student at the [Electrical Engineering Department](https://www.ee.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn), advised by Prof. [Bowen Zhou](http://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm). Prior to my master's career, I achieved my master's degree supervised by Prof [Jufeng Yang](https://cv.nankai.edu.cn) , and received my bachelor's degree at the School of [Software Engineering](http://www.sei.ecnu.edu.cn/), [East China Normal University](https://www.ecnu.edu.cn/) in 2021.
 
-My research interests include computer vision and multi-modal learning, particularly focusing on **semi-supervised image recognition**, **affective computing**. I am always looking for related collaborations, and most of them have produced top-level publications. Feel free to drop me an <a href="mailto:exped1230@gmail.com" target="_blank">email</a> if you are interested!
-
-Motto: **华模才是最吊的！**
+My research interest is multi-modal generation. I am always looking for related collaborations,  feel free to drop me an <a href="mailto:exped1230@gmail.com" target="_blank">email</a> if you are interested!
 
 
 # 📖 Educations
-- *2021.09 - 2024.06 (now)*, Master student of Nankai University. 
+- *2024.09 - now*, PHD student of Nankai University. 
+- *2021.09 - 2024.06*, Master student of Nankai University. 
 - *2017.09 - 2021.07*, Undergraduate students of East China Normal University.
 
 # 🔥 News
+* **[2024.10.28]** &nbsp;🎉🎉 I organize an ACM MM tutorial titled “Label Efficient Emotion and Sentiment Analysis” as one of the main members, the related materials is available [here](https://github.com/exped1230/Label-Efficient-Emotion-and-Sentiment-Analysis).
+* **[2024.06.17]** &nbsp;🎉🎉 I am selected as an [Outstanding Reviewer for CVPR 2024](https://cvpr.thecvf.com/Conferences/2024/ProgramCommittee#outstanding-reviewers).
 * **[2024.02.02]** &nbsp;🎉🎉 1 paper is accepted to [TAFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369).
 * **[2023.11.02]** &nbsp;🎖🎖 I receive the first prize of the Nankai University Public Scholarship.
 * **[2023.05.08]** &nbsp;🎖🎖 I receive the SK AI Innovation Scholarship from Korea.
