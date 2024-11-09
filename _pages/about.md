@@ -23,7 +23,7 @@ My research interest is multi-modal generation. I am always looking for related 
 
 
 # 📖 Educations
-- *2024.09 - now*, PHD student of Nankai University. 
+- *2024.09 - now*, PHD student of Tsinghua University. 
 - *2021.09 - 2024.06*, Master student of Nankai University. 
 - *2017.09 - 2021.07*, Undergraduate students of East China Normal University.
 
