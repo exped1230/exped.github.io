@@ -28,8 +28,8 @@ My research interest is multi-modal generation. I am always looking for related 
 - *2017.09 - 2021.07*, Undergraduate students of East China Normal University.
 
 # 🔥 News
-* **[2024.10.28]** &nbsp;🎉🎉 I organize an ACM MM tutorial titled “Label Efficient Emotion and Sentiment Analysis” as one of the main members, the related materials is available [here](https://github.com/exped1230/Label-Efficient-Emotion-and-Sentiment-Analysis).
-* **[2024.06.17]** &nbsp;🎉🎉 I am selected as an [Outstanding Reviewer for CVPR 2024](https://cvpr.thecvf.com/Conferences/2024/ProgramCommittee#outstanding-reviewers).
+* **[2024.10.28]** &nbsp;🎉🎉 Attending an ACM MM tutorial titled “Label Efficient Emotion and Sentiment Analysis” as one of the organizer, the related materials is available [here](https://github.com/exped1230/Label-Efficient-Emotion-and-Sentiment-Analysis).
+* **[2024.06.17]** &nbsp;🎉🎉 I was selected as an [Outstanding Reviewer for CVPR 2024](https://cvpr.thecvf.com/Conferences/2024/ProgramCommittee#outstanding-reviewers).
 * **[2024.02.02]** &nbsp;🎉🎉 1 paper is accepted to [TAFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369).
 * **[2023.11.02]** &nbsp;🎖🎖 I receive the first prize of the Nankai University Public Scholarship.
 * **[2023.05.08]** &nbsp;🎖🎖 I receive the SK AI Innovation Scholarship from Korea.
